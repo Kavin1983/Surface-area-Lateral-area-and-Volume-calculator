@@ -139,6 +139,3 @@ def hexagonal_prism():
     else:
         return render_template('Hexagonal-prism.html')
 
-
-if __name__ == '__main__':
-    app.run(debug=True)
